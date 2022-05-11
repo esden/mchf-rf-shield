@@ -75,7 +75,7 @@
       (hpglpennumber 1)
       (hpglpenspeed 20)
       (hpglpendiameter 15.000000)
-      (dxfpolygonmode true)
+      (dxfpolygonmode false)
       (dxfimperialunits false)
       (dxfusepcbnewfont true)
       (psnegative false)
